@@ -1,0 +1,50 @@
+section{
+    border:  2px solid red ;
+}
+
+.marcio{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 4rem;
+
+    margin-bottom: 1rem;
+}
+
+.marcio{
+    width: 20rem;
+}
+
+.marcio p{
+    width: 30rem ;
+    text-align: center;
+}
+
+.samsung{
+    display:flex ;
+    align-items: center;
+    flex-direction: row-reverse;
+    justify-content: center;
+    gap: 4rem;
+}
+
+.samsung{
+    width: 20rem;
+}
+.samsung p{
+    width: 30rem;
+    text-align: center;
+}
+
+.formularios{
+    padding: 1rem;
+    display: flex;
+}
+
+.formularios div{
+    display: flex;
+    flex-direction: column;
+}
+.formularios form{
+ width: 30rem;
+}
